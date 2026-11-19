@@ -7,58 +7,33 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- When your CV is ready, put the PDF at files/cv.pdf and uncomment the next line: -->
+<!-- [Download my CV (PDF)](/files/cv.pdf) -->
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+- **PhD in Economics**, University of Geneva, 2022 – present
+- **MSc in Economics** (two-year program), London School of Economics, 2020
+- **BSc (Hons) in International Economics and Trade**, University of Nottingham Ningbo China, 2018
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Research Assistant** to Prof. Jörn-Steffen Pischke, London School of Economics, 2021
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Teaching Experience
+======
+
+Teaching Assistant, University of Geneva
+
+- Applied Econometrics (Bachelor)
+- Microeconomics (Bachelor and Master)
+- Development Economics
+- Introduction to Econometrics
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Programming:** Stata, R, Python, LaTeX
+- **Languages:** English (fluent), Mandarin (native)
