@@ -5,25 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-Job Market Paper
-======
-
-**Title coming soon**
 <!--
-Replace the line above with, for example:
+To add a paper later, write it here, for example:
 
-**[Your Paper Title](/files/jmp.pdf)**
+**[Your Paper Title](/files/jmp.pdf)** (Job Market Paper)
 
 *Abstract:* One paragraph.
--->
-
-<!--
-Work in Progress
-======
-
-**Second Paper Title** (with Coauthor Name)
-
-*Abstract:* One paragraph.
-
-**Third Paper Title**
 -->
