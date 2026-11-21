@@ -113,7 +113,7 @@ p{margin:0 0 16px;max-width:90ch}
 .abstract[open] summary::after{content:"\2212"}
 .abstract summary:hover{border-color:var(--accent)}
 .abstract summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.abstract p{color:var(--ink-soft);font-size:.95rem;margin:12px 0 0;max-width:90ch}
+.abstract p{color:var(--ink-soft);font-size:.95rem;margin:12px 0 0;max-width:none;text-align:justify;hyphens:auto;-webkit-hyphens:auto}
 h2 + .paper{padding-top:0}
 
 /* Teaching */
