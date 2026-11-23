@@ -128,6 +128,14 @@ h2 + .paper{padding-top:0}
 .courses th:last-child,.courses td:last-child{padding-right:0;text-align:right}
 .table-scroll{overflow-x:auto}
 
+/* CV */
+.cv-link{
+  display:inline-block;font-weight:600;border:1px solid var(--accent);border-radius:3px;
+  padding:6px 14px;margin-right:12px;
+}
+.cv-link:hover{background:var(--accent);color:var(--bg)}
+.cv-embed{display:block;width:100%;height:85vh;margin-top:24px;border:1px solid var(--rule)}
+
 /* Footer */
 .site-footer{border-top:1px solid var(--rule)}
 .site-footer .wrap{padding-block:24px;font-size:.85rem;color:var(--ink-faint)}
